@@ -55,7 +55,7 @@ g++ main.cpp auth.cpp vault.cpp utils.cpp -o manager
 ##  Sample Output
 
 ```text
-========= Password Manager =========
+_=_=_=_=_=_=_=_=_=_Password Manager_=_=_=_=_=_=_=_=_=_
 1. Register
 2. Login
 3. Exit
